@@ -1,0 +1,16 @@
+1.need users
+  URLs
+    GET /signup #=> see a form
+    POST /users #=> to actually create the user
+
+  database
+    need a users table to store their email (will add password later)
+
+2.need to give users passwords
+3.find a user with their password
+4.change login system to use their email and password to authenticate them
+
+
+build user registration process (signup form and signup creation)
+give posts to users
+only let them edit posts they made
